@@ -1,4 +1,4 @@
-## Hi there 👋
+## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Manufacturing+Consent&size=42&pause=1000&center=true&width=435&lines=%7C++Welcome+To+My+Profile++%7C" alt="Typing SVG" /></a>
 
 <!--
 **mazUup/mazUup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
