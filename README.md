@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## Hewo!!
+ 
+	
+![Image](https://github.com/user-attachments/assets/3cbcfe60-3747-4999-92d5-5e80185d1905) ( marc/steven/jake ) my husband's
 <!--
 **mazUup/mazUup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
